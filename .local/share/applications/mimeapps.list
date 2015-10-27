@@ -1,0 +1,5 @@
+[Default Applications]
+inode/directory=pcmanfm.desktop
+
+[Added Associations]
+application/x-python-bytecode=leafpad.desktop;
